@@ -666,10 +666,10 @@ footer {
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   .indexLogo {
-    width: 48vw;
-    height: 12vw;
+    width: 40vw;
+    height: 10vw;
     display: block;
-    top: 10%;
+    top: 8%;
     position: absolute;
     margin-left: auto;
     margin-right: auto;
